@@ -11,9 +11,8 @@ The project will also include CSS styles that will be contained in the styles fo
 ## Folder Structure
 
 ghProject
-	-- index.html
-	-- about.html
-	-- contact.html
-	-- readme.md
-	-- styles
-		-- style.css
+-- index.html
+-- about.html
+-- contact.html
+-- readme.md
+-- style.css
